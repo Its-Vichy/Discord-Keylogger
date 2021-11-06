@@ -1,2 +1,3 @@
-# Discord-Keylogger
-👻 Keylogger that sends logs through Discord.
+```
+- How to send a file to Discord using curl ?? 💀
+```
